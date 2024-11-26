@@ -6,6 +6,9 @@ Inspired by [Voice React Agent by LangChain](https://github.com/langchain-ai/rea
 
 > Create by [Pavel Duchovny](https://www.linkedin.com/in/pavel-duchovny-60573275/) with ❤️
 
+## Demo 
+https://drive.google.com/file/d/1xQeG9S7BrlHtdMcXkveVYEyq6afh42Rr/view?usp=sharing
+
 ## Prerequisites
 
 - Python 3.8+
@@ -26,6 +29,8 @@ OPENAI_API_KEY=your_openai_api_key
 pip install uv
 pip install -r requirements.txt
 ```
+
+
 
 ## Data Ingestion
 
