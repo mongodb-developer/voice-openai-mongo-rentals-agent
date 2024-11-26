@@ -189,7 +189,7 @@ The server includes two audio worklet processors in the static directory:
 
 ## Project Structure
 ```
-server/
+voice-openai-mongo-rentals-agent/
 ├── src/
 │   └── server/
 │       ├── static/
