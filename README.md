@@ -1,4 +1,4 @@
-#  Voice Agent with MongoDB Atlas Vector
+#  Voice Agent with MongoDB Atlas Vector Search
 
 This is the Agent application that provides voice interaction capabilities powered by [MongoDB vector search](https://www.mongodb.com/docs/atlas/atlas-vector-search/vector-search-overview/) and [OpenAI realtime API](https://openai.com/index/introducing-the-realtime-api/).
 
