@@ -1,6 +1,6 @@
-# React Voice Agent Server
+#  Voice Agent with MongoDB Atlas Vector
 
-This is the server component of the React Voice Agent application that provides voice interaction capabilities powered by vector search.
+This is the Agent application that provides voice interaction capabilities powered by [MongoDB vector search](https://www.mongodb.com/docs/atlas/atlas-vector-search/vector-search-overview/) and [OpenAI realtime API](https://openai.com/index/introducing-the-realtime-api/).
 
 Inspired by [Voice React Agent by LangChain](https://github.com/langchain-ai/react-voice-agent)
 
