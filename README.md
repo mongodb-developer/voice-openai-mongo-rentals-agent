@@ -4,10 +4,12 @@ This is the Agent application that provides voice interaction capabilities power
 
 Inspired by [Voice React Agent by LangChain](https://github.com/langchain-ai/react-voice-agent)
 
+> Create by [Pavel Duchovny](https://www.linkedin.com/in/pavel-duchovny-60573275/) with ❤️
+
 ## Prerequisites
 
 - Python 3.8+
-- MongoDB Atlas account with Vector Search enabled
+- MongoDB Atlas account and cluster with Vector Search compatible (8.0+ prefared)
 - OpenAI API key
 - Node.js and npm (for running the client)
 
