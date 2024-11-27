@@ -124,7 +124,13 @@
             try {
 
                 // handle output -> speaker stuff
-                const ws = new WebSocket("ws://localhost:3000/ws");
+                const wsProtocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
+
+                // Get the hostname (domain + port)
+                const hostname = window.location.host;
+                
+                // Create dynamic WebSocket URL
+                const ws = new WebSocket(`${wsProtocol}//${hostname}/ws`);
 
                 const audioPlayer = new Player();
                 audioPlayer.init(24000);
