@@ -8,3 +8,4 @@ uvicorn
 python-dotenv
 pymongo
 websockets
+uv
