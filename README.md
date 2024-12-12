@@ -1,5 +1,7 @@
 #  Voice Agent with MongoDB Atlas Vector Search
 
+<img src="./youtube-thumbnail-updated.svg" width="400" alt="Thumbnail">
+
 This is the Agent application that provides voice interaction capabilities powered by [MongoDB vector search](https://www.mongodb.com/docs/atlas/atlas-vector-search/vector-search-overview/) and [OpenAI realtime API](https://openai.com/index/introducing-the-realtime-api/).
 
 Inspired by [Voice React Agent by LangChain](https://github.com/langchain-ai/react-voice-agent)
@@ -7,7 +9,8 @@ Inspired by [Voice React Agent by LangChain](https://github.com/langchain-ai/rea
 > Create by [Pavel Duchovny](https://www.linkedin.com/in/pavel-duchovny-60573275/) with ❤️
 
 ## Demo 
-https://drive.google.com/file/d/1xQeG9S7BrlHtdMcXkveVYEyq6afh42Rr/view?usp=sharing
+[![Voice Chat Agent with MongoDB Vector Search & OpenAI Realtime API](https://img.youtube.com/vi/USmcc8biu6M/maxresdefault.jpg)](https://youtu.be/USmcc8biu6M)
+
 
 ## Prerequisites
 
